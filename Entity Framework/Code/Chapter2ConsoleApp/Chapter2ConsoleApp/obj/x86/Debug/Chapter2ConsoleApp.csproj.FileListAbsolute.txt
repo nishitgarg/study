@@ -1,0 +1,6 @@
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.exe.config
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.exe
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.pdb
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\obj\x86\Debug\Chapter2ConsoleApp.exe
+C:\Users\nishit.garg\Desktop\study\Entity Framework\Code\Chapter2ConsoleApp\Chapter2ConsoleApp\obj\x86\Debug\Chapter2ConsoleApp.pdb
